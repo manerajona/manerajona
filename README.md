@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Jonathan (aka Jona) 
-- 👨‍💻 Senior Java Developer in the fintech sector
+- 👨‍💻 Senior Backend Developer in the fintech sector
 - 👨‍🎓 Engineer’s degree in Systems Engineering
 - 💬 he/him/his
 - 🌱 Learning Go, K8, gRPC and Kotlin!
-- 🌎 Currently in 🇫🇷
 
 &nbsp;
 
@@ -11,16 +10,16 @@
 
 ||my toolbox|
 |---|---|
-|**JVM**|Java, kotlin, Goovy, Maven, Gradle, Spring (Cloud, Boot, Batch, StateMachine, WebFlux), Hibernate.
-|**Web**|Thymeleaf, Angular.
-|**QA**|JUnit, Spock, Cucumber, Serenity, Postman/Newman.
+|**Programming Languages**|Java, kotlin, Goovy, Golang, Typescript.
+|**Web**|Webflow, Angular, Sass.
+|**QA**|JUnit, Spock, Cucumber, Serenity, Postman.
 |**SQL**|PostgreSQL, MySQL, Spanner, FlyWay, Liquibase, JPA, JDBC, R2DBC.
 |**NO-SQL**|Mongo, Redis, Elasticsearch.
-|**Virtualization**|Docker, Kubernetes, OpenShift, GCP, AWS.
-|**WS**|REST, SOAP, gRPC.
+|**Cloud**|OpenShift, GCP, AWS.
+|**Sync IPC**|REST, SOAP, gRPC.
+|**Async IPC**|RabbitMQ, Pub/Sub, Kafka.
 |**Monitoring**|Prometheus, Grafana, ELK.
 |**Operations**|Git, Jenkins, Artifactory, SonarQube, Checkmarx, bash scripting.
-|**Agile**|Scrum, Kanban, SaFe, DevOps, TDD.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=manerajona&show_icons=true&locale=en" alt="manerajona" width = 450>
