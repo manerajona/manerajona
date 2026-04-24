@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jonathan (aka Jona) 
+### Hi there 👋 I'm Jonathan
 - 👨‍💻 Software & DevOps Engineer
 - 👨‍🎓 Engineer’s degree
 - 💬 he/him/his
