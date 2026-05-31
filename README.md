@@ -16,13 +16,8 @@
 |**Cloud**|OpenShift, GCP, AWS.
 |**Sync IPC**|REST, SOAP, gRPC.
 |**Async IPC**|JMS, AMQP, Kafka.
-|**Monitoring**|Prometheus, Grafana, ELK.
-|**Operations**|Jenkins CI/CD, Concourse CI, Argo CD, Argo Workflows, Artifactory, Terraform, Ansible.
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=manerajona&show_icons=true&locale=en" alt="manerajona" width = 450>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manerajona&show_icons=true&locale=en&layout=compact" alt="manerajona" width 450 />
-</p>
+|**Cloud & Infrastructure**|GCP, AWS, OpenShift, Kubernetes, Helm, Terraform.
+|**DevSecOps & Automation**|Jenkins, Ansible, ArgoCD, Argo Workflows, SonarQube, JFrog, HashiCorp Vault, CyberArk.
 
 ## 📫 How to reach me
 
